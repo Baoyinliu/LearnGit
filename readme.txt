@@ -3,4 +3,4 @@ Git is a free software under GPL.
 Add lisence
 Add lilili
 Add LLLLL
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
